@@ -1,0 +1,28 @@
+<!--
+Copyright (C) 2017 ABC rom
+
+
+   Original icon grabbed from https://materialdesignicons.com/icon/bomb
+   by Austin Andrews http://twitter.com/Templarian
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+         http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+        android:width="24.0dp"
+        android:height="24.0dp"
+        android:viewportWidth="24"
+        android:viewportHeight="24">
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 10,7.6 A 2.6,2.6 0 0 1 12.6,5 2.6,2.6 0 0 1 15.2,7.6 c 0,0.336 0.264,0.6 0.6,0.6 0.336,0 0.6,-0.264 0.6,-0.6 V 7 h 1.2 V 7.6 A 1.8,1.8 0 0 1 15.8,9.4 1.8,1.8 0 0 1 14,7.6 1.4,1.4 0 0 0 12.6,6.2 1.4,1.4 0 0 0 11.2,7.6 h 1 v 1.032 c 2.312,0.688 4,2.832 4,5.368 A 5.6,5.6 0 0 1 10.6,19.6 5.6,5.6 0 0 1 5,14 C 5,11.464 6.688,9.32 9,8.632 V 7.6 h 1 m 8.6,0 h 1.6 V 8.4 H 18.6 V 7.6 M 16.2,6 V 4.4 H 17 V 6 h -0.8 m 1.528,0.304 1.136,-1.136 0.568,0.568 -1.136,1.136 z"/>
+</vector>
